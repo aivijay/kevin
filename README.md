@@ -1,4 +1,4 @@
-Kevin Bacon's favourite reposotory
+Kevin Bacon's favourite repository
 ==================================
 
 How far is an actor from Kevin Bacon?
